@@ -1,4 +1,4 @@
-[![CI](https://github.com/Cryptops-FR/white_app_web3/actions/workflows/nxci.yml/badge.svg?branch=main)](https://github.com/Cryptops-FR/white_app_web3/actions/workflows/nxci.yml)
+[![CI](https://github.com/Cryptops-FR/white_app_web3/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Cryptops-FR/white_app_web3/actions/workflows/main.yml)
 ![Version](https://img.shields.io/github/v/tag/Cryptops-FR/white_app_web3?label=release)
 [![codecov](https://codecov.io/gh/Cryptops-FR/white_app_web3/branch/main/graph/badge.svg?token=BJGLHMYW4Q)](https://codecov.io/gh/Cryptops-FR/white_app_web3)
 
