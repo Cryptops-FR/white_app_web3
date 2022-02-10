@@ -1,4 +1,6 @@
-
+[![CI](https://github.com/Cryptops-FR/white_app_web3/actions/workflows/nxci.yml/badge.svg?branch=main)](https://github.com/Cryptops-FR/white_app_web3/actions/workflows/nxci.yml)
+![Version](https://img.shields.io/github/v/tag/Cryptops-FR/white_app_web3?label=release)
+[![codecov](https://codecov.io/gh/Cryptops-FR/white_app_web3/branch/main/graph/badge.svg?token=BJGLHMYW4Q)](https://codecov.io/gh/Cryptops-FR/white_app_web3)
 
 # NxTest
 
@@ -78,8 +80,6 @@ Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
-
-
 
 ## ☁ Nx Cloud
 
