@@ -39,10 +39,10 @@ jobs:
           node-version: '14'
       - run: npm install
       - run: npx nx affected --target=build --parallel --max-parallel=3
-      - run: npx nx affected --target=test --parallel --max-parallel=2
+      - run: npx nx affected --target=test --codeCoverage --parallel --max-parallel=2
       - name: Report on CodeCoverage
         uses: codecov/codecov-action@v1
         with:
           token: ${{ secrets.CODECOV_TOKEN }} # not required for public repos
-          file: ./coverage.xml
+          file: ./coverage/apps/test-app/clover.xml
           name: cryptops-fr-white-app-web-3
